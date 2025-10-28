@@ -1,2 +1,9 @@
 # Auralis
-ILIAS-Skin der HSU / UniBw H
+
+Auralis ist der ILIAS-SKins der HSU / UniBw H.
+
+# Entwickler:innen
+
+Bettina Solzbacher
+Technische Leitung ILIAS-Supportteam HSU / UniBw H
+Koordinationsstelle E-Lernen
