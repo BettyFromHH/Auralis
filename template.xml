@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template xmlns="http://www.w3.org" version="1.0" name="Auralis-Skin 1.0 (ILIAS 9.14)">
+	<style
+		name="Standard"
+		id="default"
+		image_directory="../images"
+		css_file="default"
+		font_directory="../fonts"
+	/>
+</template>
