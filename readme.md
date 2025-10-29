@@ -55,7 +55,7 @@ Das Hauptmenü und der Header bleiben weiter sichbar.
 
 ## Lizenz
 
-###CC BY-NC-ND 4.0  
+### CC BY-NC-ND 4.0  
 
 <br>
 
@@ -114,6 +114,7 @@ dieser Software entstehen, soweit ein solcher Ausschluss gesetzlich zulässig is
 
 <br>
 <br>
+
 
 
 
