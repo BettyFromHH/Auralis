@@ -1,6 +1,7 @@
 # Auralis
 
 Auralis ist der ILIAS-SKins der HSU / UniBw H.
+<br>
 
 ## Entwickler:innen
 
