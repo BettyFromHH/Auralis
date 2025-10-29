@@ -83,6 +83,10 @@ Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg
   
 E-Mail: **ilias@hsu-hh.de**  
 
+## Credits
+
+Die Schriftart Montserrat unterliegt dem Copyright von Designer **Julieta Ulanovsky** und steht unter der freien, offenen SIL Open Font License für private und kommerzielle Projekte.
+
 ## Disclaimer
 
 Dieses Projekt wurde an der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg (HSU/UniBw H) entwickelt.
@@ -94,5 +98,6 @@ bestimmten Zweck oder der Nichtverletzung von Rechten Dritter.
 Die Nutzung der Software erfolgt ausschließlich auf eigene Verantwortung.
 Die HSU/UniBw H sowie die Autorinnen und Autoren übernehmen keinerlei Haftung für Schäden, die aus der Verwendung 
 dieser Software entstehen, soweit ein solcher Ausschluss gesetzlich zulässig ist.
+
 
 
