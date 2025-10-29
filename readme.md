@@ -37,7 +37,7 @@ Erstellt ein Icon neben den Breadcrumbs, womit beim klicken auf das Icon der per
 direkt in die Zwischenablage kopiert wird.
 Gleichzeitig wird die Option aus dem Footer entfernt.
 
-#### <span><img src="images/icons/arrow_up_1c1c1c.svg" width="20" height="20" alt="Copy Icon" style="border-radius: 50%; padding: 4px; border: 2px solid #1c1c1c; vertical-align: middle;">&nbsp;</span> Scroll-To-Top - Button
+#### <span><img src="images/icons/arrow_up_4c6586.svg" width="20" height="20" alt="Copy Icon" style="border-radius: 50%; padding: 4px; border: 2px solid #1c1c1c; vertical-align: middle;">&nbsp;</span> Scroll-To-Top - Button
 
 Fügt auf allen Seiten einen Scroll-To-Top Button ein, welcher beim scrollen auf der Seite eingeblendet wird. Beim 
 klicken auf den Button wird ein sanfter Bildlauf zum Seitenanfang durchgeführt.
@@ -114,6 +114,7 @@ dieser Software entstehen, soweit ein solcher Ausschluss gesetzlich zulässig is
 
 <br>
 <br>
+
 
 
 
