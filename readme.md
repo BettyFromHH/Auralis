@@ -2,6 +2,8 @@
 
 Auralis ist der ILIAS-Skin der Helmut-Schmidt-Universität / Universität der Bundeswehr Hamburg.  
 
+<br>
+
 ## Allgemein
 
 Der Auralis-Skin basiert auf dem Standard-Skin DELOS und stellt viele, zusätzliche Features bereit.  
@@ -35,21 +37,15 @@ Erstellt ein Icon neben den Breadcrumbs, womit beim klicken auf das Icon der per
 direkt in die Zwischenablage kopiert wird.
 Gleichzeitig wird die Option aus dem Footer entfernt.
 
-<br>
-
 #### <span><img src="images/icons/arrow_up_1c1c1c.svg" width="20" height="20" alt="Copy Icon" style="border-radius: 50%; padding: 4px; border: 2px solid #1c1c1c; vertical-align: middle;">&nbsp;</span> Scroll-To-Top - Button
 
 Fügt auf allen Seiten einen Scroll-To-Top Button ein, welcher beim scrollen auf der Seite eingeblendet wird. Beim 
 klicken auf den Button wird ein sanfter Bildlauf zum Seitenanfang durchgeführt.
 
-<br>
-
 #### Page-Position - Marker
 
 Der Page-Position - Marker zeigt unterhalb der Breadcrumbs die Scrollposition auf der Seite als waagerechter Balken an. 
 Dies ermöglicht eine Orientierung über die Scrollposition auf der Seite auch bei ausgeblendeten Scrollleisten. 
-
-<br>
 
 #### <span><img src="images/media/loader.svg" width="12" height="12" alt="Copy Icon" style="vertical-align: middle;">&nbsp;</span> Content-Loader
 
@@ -57,13 +53,9 @@ So lange eine Seite geladen wird, wird das Loader-Icon angezeigt. Dies verhinder
 Umbau des DOM durch den Skin erfolgen sichtbar werden.
 Das Hauptmenü und der Header bleiben weiter sichbar.
 
-<br>
-
 ## Lizenz
 
-<pre> 
-**CC BY-NC-ND 4.0**  
-</pre> 
+###CC BY-NC-ND 4.0  
 
 <br>
 
@@ -122,6 +114,7 @@ dieser Software entstehen, soweit ein solcher Ausschluss gesetzlich zulässig is
 
 <br>
 <br>
+
 
 
 
