@@ -1,0 +1,17 @@
+@use "../010-settings/settings_media" as param;
+
+$loader-size: 32px;
+
+.auralis-content-loader {
+  display: block;
+  width: $loader-size;
+  height: $loader-size;
+  position: absolute;
+  top: calc(50% - $loader-size / 2);
+  left: calc(50% - $loader-size / 2 + 80px);
+
+  background-image: url("#{param.$il-background-images-path}media/loader.svg");
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: contain;
+}

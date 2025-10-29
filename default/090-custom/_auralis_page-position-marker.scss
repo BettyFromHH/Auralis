@@ -1,0 +1,48 @@
+@use "../010-settings/settings_color-palette" as color;
+
+.auralis-mobile-page-position-marker {
+  height: 3px;
+  width: 100%;
+  --page-pos1: 0%;
+  --page-pos2: 0%;
+  background: linear-gradient(to right, color.$il-main-color var(--page-pos1), #ffffff00 var(--page-pos2));
+  border: none;
+  margin: 0 0 -1px 0;
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+
+.auralis-page-position-marker {
+  height: 3px;
+  width: 100%;
+  --page-pos1: 0%;
+  --page-pos2: 0%;
+  background: linear-gradient(to right, color.$il-main-color var(--page-pos1), #ffffff00 var(--page-pos2));
+  border: none;
+  margin: 0 0 -1px 0;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+@media only screen and (max-width: 991px) {
+  .auralis-mobile-page-position-marker {
+    display: block;
+  }
+  .auralis-page-position-marker {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .auralis-mobile-page-position-marker {
+    display: none;
+  }
+  .auralis-page-position-marker {
+    display: block;
+  }
+}
+
+
+

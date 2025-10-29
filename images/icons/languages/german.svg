@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 24 16">
+  <!-- Schwarzer Streifen -->
+  <rect width="24" height="5.3333" fill="#000000" />
+  <!-- Roter Streifen -->
+  <rect y="5.3333" width="24" height="5.3333" fill="#CC0000" />
+  <!-- Goldener Streifen -->
+  <rect y="10.6667" width="24" height="5.3333" fill="#EEEE00" />
+</svg>
